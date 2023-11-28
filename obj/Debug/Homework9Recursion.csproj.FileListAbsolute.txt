@@ -1,0 +1,7 @@
+D:\CSharpWorks\GBHomeWorks\Homework9Recursion\bin\Debug\Homework9Recursion.exe.config
+D:\CSharpWorks\GBHomeWorks\Homework9Recursion\bin\Debug\Homework9Recursion.exe
+D:\CSharpWorks\GBHomeWorks\Homework9Recursion\bin\Debug\Homework9Recursion.pdb
+D:\CSharpWorks\GBHomeWorks\Homework9Recursion\obj\Debug\Homework9Recursion.csproj.AssemblyReference.cache
+D:\CSharpWorks\GBHomeWorks\Homework9Recursion\obj\Debug\Homework9Recursion.csproj.CoreCompileInputs.cache
+D:\CSharpWorks\GBHomeWorks\Homework9Recursion\obj\Debug\Homework9Recursion.exe
+D:\CSharpWorks\GBHomeWorks\Homework9Recursion\obj\Debug\Homework9Recursion.pdb
